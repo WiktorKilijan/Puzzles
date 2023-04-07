@@ -1,0 +1,3 @@
+object KataS extends App {
+
+}
